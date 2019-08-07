@@ -1,3 +1,3 @@
-module github.com/rename-test-account/go-lib-test
+module github.com/renamed-account/go-lib-test
 
 go 1.12
